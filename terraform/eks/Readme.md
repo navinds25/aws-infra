@@ -5,6 +5,8 @@ Note: Requires `aws-iam-authenticator` to be installed refer: https://docs.aws.a
 
 # TODO:
 
+* disable public access for kubernetes api
+
 * pod networking
 
 * Deploy public pod
@@ -16,5 +18,3 @@ Note: Requires `aws-iam-authenticator` to be installed refer: https://docs.aws.a
 * Add nodes
 
 * control nodes with ansible
-
-note: Make kubernetes api private - can't coz AWS has all of that.
